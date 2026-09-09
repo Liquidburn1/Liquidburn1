@@ -5,18 +5,26 @@ I'm a software engineer and computer science graduate interested in software dev
 
 I enjoy building practical software and taking projects from an idea to something people can actually use. My experience includes JavaScript, TypeScript, Python, Java, React, Node.js, and more.
 
-🚀 Featured Projects
-FolderFlow 📂
+## 🚀 Featured Projects
+
+**FolderFlow** 📂
+
 Chrome and Firefox extension for organizing YouTube playlists with 200+ users.
-Tribute Platform
+
+**Tribute Platform**
+
 Full-stack memorial platform that is actively being used, built with React, Supabase, and Electron.
-Minecraft RPG Plugin ⚔️
+
+**Minecraft RPG Plugin** ⚔️
+
 Java-based RPG plugin featuring a custom Relic and Charm system with 20+ Relics.
-Sankey Diagram Generator 
+
+**Sankey Diagram Generator**
+
 Interactive tool for creating and visualizing Sankey diagrams.
 
+## 🧠 Currently Interested In
 
-🧠 Currently Interested In
 AI • Cloud • Software Engineering • Developer Tools • System Design
 
 ## 🌐 Socials:
