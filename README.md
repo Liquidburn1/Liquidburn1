@@ -1,6 +1,23 @@
 # 💫 About Me:
-👋 Hey there! I'm Hassan Ali Qadir, a passionate computer science student with a knack for innovative software solutions and a flair for finance. Currently pursuing my BS in Computer Science with a minor in Finance at the University of Illinois at Chicago, where I maintain a GPA of 3.77 out of 4.0.<br><br>🌱 Constantly seeking to expand my horizons, I'm proficient in various programming languages including JavaScript, C++, Python, Java, and more. From crafting dynamic web applications with React and Next.js to diving into the intricacies of embedded systems with C++, I thrive in diverse technical environments.<br><br>🚀 In my most recent roles, I've had the privilege of serving as a Teaching Assistant at UIC's Department of Engineering, guiding and inspiring students in the realm of Wearable and Nearable Tech. Additionally, I've honed my skills as a Software Engineer Intern at both Omantel and the WTSE Research Lab, where I've contributed to the development of cutting-edge software solutions, ranging from ticketing systems to intra-oral respirometers.<br><br>🛠️ My technical toolkit includes a wide array of technologies and frameworks, from React and Spring to Flask and React Native. Proficient in utilizing developer tools such as VS Code, Git, and Eclipse, I'm always equipped to tackle any challenge that comes my way.<br><br>💡 Passionate about creating impactful projects, I've been involved in endeavors like "Get Yoked," a Progressive Web App designed to revolutionize fitness tracking, and "CTA Database," a Python application simplifying user interaction with Chicago's CTA database.<br><br>📫 Excited to connect and collaborate? Feel free to reach out to me via email, connect with me on LinkedIn, or check out my portfolio at haq-portfolio.netlify.app.<br><br>Let's innovate, collaborate, and make a difference together! 🌟
+👋 Hi, I'm Hassan
 
+I'm a software engineer and computer science graduate interested in software development, AI, cloud, and digital infrastructure.
+
+I enjoy building practical software and taking projects from an idea to something people can actually use. My experience includes JavaScript, TypeScript, Python, Java, React, Node.js, and more.
+
+🚀 Featured Projects
+FolderFlow 📂
+Chrome and Firefox extension for organizing YouTube playlists with 200+ users.
+Tribute Platform
+Full-stack memorial platform that is actively being used, built with React, Supabase, and Electron.
+Minecraft RPG Plugin ⚔️
+Java-based RPG plugin featuring a custom Relic and Charm system with 20+ Relics.
+Sankey Diagram Generator 
+Interactive tool for creating and visualizing Sankey diagrams.
+
+
+🧠 Currently Interested In
+AI • Cloud • Software Engineering • Developer Tools • System Design
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hassan-ali-qadir/) 
