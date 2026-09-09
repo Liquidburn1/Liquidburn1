@@ -23,10 +23,6 @@ Java-based RPG plugin featuring a custom Relic and Charm system with 20+ Relics.
 
 Interactive tool for creating and visualizing Sankey diagrams.
 
-## 🧠 Currently Interested In
-
-AI • Cloud • Software Engineering • Developer Tools • System Design
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hassan-ali-qadir/) 
 
